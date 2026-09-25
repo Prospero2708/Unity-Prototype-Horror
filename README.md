@@ -1,6 +1,6 @@
 # Unity 3D Gameplay Mechanics & Utilities
 
-A curated repository of optimized, production-ready C# scripts for Unity 3D. This library focuses on **Event-Driven Architecture (New Input System)**, performance optimization, integration with the modern **AI Navigation (NavMesh)** package.
+A curated repository of optimized C# scripts for Unity 3D. This library focuses on **Event-Driven Architecture (New Input System)**, performance optimization, integration with the modern **AI Navigation (NavMesh)** package.
 ----------------
 * **`InputRead.cs`** — Centralized input manager utilizing the **New Input System**. Converts raw player input into clean C# events (`Action`). Includes symmetrical event unsubscription in `OnDisable` to prevent memory leaks.
 ----------------
