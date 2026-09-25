@@ -17,9 +17,9 @@ A curated repository of optimized, production-ready C# scripts for Unity 3D. Thi
 * **`TimerScript.cs`** — A custom tick-based timer system designed to offload heavy calculations from the standard `Update` loop to low-frequency intervals (every 0.5 seconds).
 ----------------
 * **`GrainEffect.cs`** — Post-processing controller for distance-based grain effects. Subscribes to `TimerScript` and utilizes aggressive profile caching (`currentProfile`) to completely eliminate redundant CPU overhead in idle frames.
-
+----------------
 * 📺 **[Video Demo on YouTube](https://youtu.be/-Zi2SIYogzQ)** — Live demonstration of the character pathfinding, custom skeleton rig in motion, and automatic switching between Walk and Idle loops upon reaching targets.
-
-### 🎨 Low-Poly Character & Rigging Showcase
+----------------
+### Low-Poly Character & Rigging Showcase
 ![Character Front View](_Media/front.png)
 ![Character Wireframe](_Media/front_rigs.png)
